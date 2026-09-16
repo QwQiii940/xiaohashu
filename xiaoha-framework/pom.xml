@@ -22,6 +22,8 @@
         <!-- 通用工具组件 -->
         <module>xiaoha-common</module>
 
+        <!-- 接口日志组件（自定义 Spring Boot Starter） -->
+        <module>xiaoha-spring-boot-starter-biz-operationlog</module>
     </modules>
 
 </project>
