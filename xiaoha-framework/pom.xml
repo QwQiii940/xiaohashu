@@ -6,7 +6,7 @@
 
     <!-- 指定父项目 -->
     <parent>
-        <groupId>com.quanxiaoha</groupId>
+        <groupId>com.moge</groupId>
         <artifactId>xiaohashu</artifactId>
         <version>${revision}</version>
     </parent>
